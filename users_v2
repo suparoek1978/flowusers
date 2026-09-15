@@ -8,5 +8,11 @@
     {"email": "goodgo9@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
     {"email": "darlinghyok25@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
     {"email": "Snook.tuscita@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"}
+    {"email": "test2@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
+    {"email": "test3@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
+    {"email": "test4@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
+    {"email": "test5@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
+    {"email": "test6@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
+    {"email": "test7@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"}
   ]
 }
