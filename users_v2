@@ -55,16 +55,6 @@
       "email": "test5@gmail.com",
       "role": "TESTER",
       "expiredate": "2027-01-01"
-    },
-    {
-      "email": "test6@gmail.com",
-      "role": "TESTER",
-      "expiredate": "2027-01-01"
-    },
-    {
-      "email": "test7@gmail.com",
-      "role": "TESTER",
-      "expiredate": "2027-01-01"
     }
   ]
 }
