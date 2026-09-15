@@ -3,6 +3,6 @@
   "users": [
     {"email": "9gk9801@gmail.com", "role": "Admin", "expiredate": "2099-12-31"},
     {"email": "pajittungkho742@gmail.com", "role": "Free User", "expiredate": "2027-09-30"},
-    {"email": "supp.pa1978@gmail.com", "role": "User", "expiredate": "2027-01-01"} 
+    {"email": "supp.pa1978@gmail.com", "role": "Vip", "expiredate": "2027-01-01"} 
   ]
 }
