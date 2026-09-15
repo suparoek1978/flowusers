@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "users": [
+    {"email": "9gk9801@gmail.com", "role": "Admin", "expiredate": "2099-12-31"},
+    {"email": "pajittungkho742@gmail.com", "role": "Free User", "expiredate": "2026-09-30"},
+    {"email": "test@gmail.com", "role": "User", "expiredate": "2026-01-01"} 
+  ]
+}
