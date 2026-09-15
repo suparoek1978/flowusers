@@ -2,8 +2,11 @@
   "success": true,
   "users": [
     {"email": "9gk9801@gmail.com", "role": "Admin", "expiredate": "2099-12-31"},
-    {"email": "pajittungkho742@gmail.com", "role": "Free User", "expiredate": "2027-09-30"},
+    {"email": "pajittungkho742@gmail.com", "role": "TESTER", "expiredate": "2027-09-30"},
     {"email": "supp.pa1978@gmail.com", "role": "Vip", "expiredate": "2027-01-01"}, 
-    {"email": "test1@gmail.com", "role": "Vip", "expiredate": "2027-01-01"}
+    {"email": "test1@gmail.com", "role": "Vip", "expiredate": "2027-01-01"},
+    {"email": "goodgo9@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
+    {"email": "darlinghyok25@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
+    {"email": "Snook.tuscita@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"}
   ]
 }
