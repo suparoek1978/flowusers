@@ -7,7 +7,7 @@
     {"email": "test1@gmail.com", "role": "Vip", "expiredate": "2027-01-01"},
     {"email": "goodgo9@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
     {"email": "darlinghyok25@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
-    {"email": "Snook.tuscita@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"}
+    {"email": "Snook.tuscita@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
     {"email": "test2@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
     {"email": "test3@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
     {"email": "test4@gmail.com", "role": "TESTER", "expiredate": "2027-01-01"},
