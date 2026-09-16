@@ -55,6 +55,11 @@
       "email": "test5@gmail.com",
       "role": "TESTER",
       "expiredate": "2027-01-01"
+    },
+    {
+      "email": "Mompeach3@gmail.com",
+      "role": "TESTER",
+      "expiredate": "2027-01-31"
     }
   ]
 }
