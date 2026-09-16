@@ -19,22 +19,27 @@
     {
       "email": "goodgo9@gmail.com",
       "role": "TESTER",
-      "expiredate": "2027-01-01"
+      "expiredate": "2026-10-01"
     },
     {
       "email": "darlinghyok25@gmail.com",
       "role": "TESTER",
-      "expiredate": "2027-01-01"
+      "expiredate": "2026-10-01"
     },
     {
       "email": "Snook.tuscita@gmail.com",
       "role": "TESTER",
-      "expiredate": "2027-01-01"
+      "expiredate": "2026-10-01"
     },
     {
       "email": "Mompeach3@gmail.com",
       "role": "TESTER",
-      "expiredate": "2027-01-31"
+      "expiredate": "2026-10-01"
+    },
+    {
+      "email": "thiratipas.ss@gmail.com",
+      "role": "TESTER",
+      "expiredate": "2026-10-01"
     }
   ]
 }
