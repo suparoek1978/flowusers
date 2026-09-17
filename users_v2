@@ -45,6 +45,11 @@
       "email": "Therichman514@gmail.com",
       "role": "TESTER",
       "expiredate": "2026-10-01"
+    },
+    {
+      "email": "9gk9801@genproai.xyz",
+      "role": "VIP",
+      "expiredate": "2026-10-01"
     }
   ]
 }
