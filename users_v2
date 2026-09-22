@@ -50,6 +50,11 @@
       "email": "9gk9801@genproai.xyz",
       "role": "VIP",
       "expiredate": "2026-10-01"
+    },
+    {
+      "email": "kireiizeedza@gmail.com",
+      "role": "TESTER",
+      "expiredate": "2026-10-15"
     }
   ]
 }
