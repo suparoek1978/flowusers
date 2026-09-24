@@ -55,6 +55,11 @@
       "email": "kireiizeedza@gmail.com",
       "role": "TESTER",
       "expiredate": "2026-10-15"
+    },
+    {
+      "email": "vrtjames@gmail.com",
+      "role": "TESTER",
+      "expiredate": "2026-10-15"
     }
   ]
 }
