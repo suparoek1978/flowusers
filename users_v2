@@ -60,6 +60,11 @@
       "email": "vrtjames@gmail.com",
       "role": "TESTER",
       "expiredate": "2026-10-15"
+    },
+    {
+      "email": "easyshortpro@gmail.com",
+      "role": "VIP",
+      "expiredate": "never"
     }
   ]
 }
